@@ -1,0 +1,16 @@
+
+#menu , #beef , #sushi{
+background-color: gray;
+border: 2px solid black;
+margin: 0.7em;
+position: relative;
+}
+.row #tag{
+    padding: 0.3em 1.7em;
+    position: absolute;
+    right: 0;
+    background-color: brown;
+    font-size: 1.3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
